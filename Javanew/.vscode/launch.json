@@ -1,0 +1,60 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CombineLists",
+            "request": "launch",
+            "mainClass": "CombineLists",
+            "projectName": "Javanew_38f3ea60"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Palindrome",
+            "request": "launch",
+            "mainClass": "Palindrome",
+            "projectName": "Javanew_38f3ea60"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - EqualNumbers",
+            "request": "launch",
+            "mainClass": "EqualNumbers",
+            "projectName": "Javanew_38f3ea60"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Allpositive",
+            "request": "launch",
+            "mainClass": "Allpositive",
+            "projectName": "Javanew_38f3ea60"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Greatest",
+            "request": "launch",
+            "mainClass": "Greatest",
+            "projectName": "Javanew_38f3ea60"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Length",
+            "request": "launch",
+            "mainClass": "Length",
+            "projectName": "Javanew_38f3ea60"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Sum",
+            "request": "launch",
+            "mainClass": "Sum",
+            "projectName": "Javanew_38f3ea60"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Countlists",
+            "request": "launch",
+            "mainClass": "Countlists",
+            "projectName": "Javanew_38f3ea60"
+        }
+    ]
+}

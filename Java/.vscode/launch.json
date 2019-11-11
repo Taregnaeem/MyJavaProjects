@@ -1,0 +1,414 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - GuessingNumber",
+            "request": "launch",
+            "mainClass": "GuessingNumber",
+            "projectName": "Java_3e637740"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PrintStars",
+            "request": "launch",
+            "mainClass": "PrintStars",
+            "projectName": "Java_3e637740"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Whitespace",
+            "request": "launch",
+            "mainClass": "Whitespace",
+            "projectName": "Java_3e637740"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PrintingStarsMethod",
+            "request": "launch",
+            "mainClass": "PrintingStarsMethod",
+            "projectName": "Java_3e637740"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - whileLoopMethod",
+            "request": "launch",
+            "mainClass": "whileLoopMethod",
+            "projectName": "Java_3e637740"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - whilemethod",
+            "request": "launch",
+            "mainClass": "whilemethod",
+            "projectName": "Java_3e637740"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - method",
+            "request": "launch",
+            "mainClass": "method",
+            "projectName": "Java_3e637740"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Loops",
+            "request": "launch",
+            "mainClass": "Loops",
+            "projectName": "Java_3e637740"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SumOfPowers",
+            "request": "launch",
+            "mainClass": "SumOfPowers",
+            "projectName": "Java_3e637740"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Factorial",
+            "request": "launch",
+            "mainClass": "Factorial",
+            "projectName": "Java_3e637740"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TheSumBetweenTwoNumbers",
+            "request": "launch",
+            "mainClass": "TheSumBetweenTwoNumbers",
+            "projectName": "Java_3e637740"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SumOfTheGivenNumber",
+            "request": "launch",
+            "mainClass": "SumOfTheGivenNumber",
+            "projectName": "Java_3e637740"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FirstNumberSecondNumberLimit",
+            "request": "launch",
+            "mainClass": "FirstNumberSecondNumberLimit",
+            "projectName": "Java_3e637740"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FirstAndLastLimit",
+            "request": "launch",
+            "mainClass": "FirstAndLastLimit",
+            "projectName": "Java_3e637740"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - UptoYourNumber",
+            "request": "launch",
+            "mainClass": "UptoYourNumber",
+            "projectName": "Java_3e637740"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - EvenNumber",
+            "request": "launch",
+            "mainClass": "EvenNumber",
+            "projectName": "Java_3e637740"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Numbers100",
+            "request": "launch",
+            "mainClass": "Numbers100",
+            "projectName": "Java_3e637740"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - WhileLoop",
+            "request": "launch",
+            "mainClass": "WhileLoop",
+            "projectName": "Java_3e637740"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SumOfManyNumbers",
+            "request": "launch",
+            "mainClass": "SumOfManyNumbers",
+            "projectName": "Java_3e637740"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SumOfThreeNumbers",
+            "request": "launch",
+            "mainClass": "SumOfThreeNumbers",
+            "projectName": "Java_3e637740"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AgeAdd",
+            "request": "launch",
+            "mainClass": "AgeAdd",
+            "projectName": "Java_3e637740"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Temp",
+            "request": "launch",
+            "mainClass": "Temp",
+            "projectName": "Java_3e637740"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Password",
+            "request": "launch",
+            "mainClass": "Password",
+            "projectName": "Java_3e637740"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Passoword",
+            "request": "launch",
+            "mainClass": "Passoword",
+            "projectName": "Java_3e637740"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PasswordSecret",
+            "request": "launch",
+            "mainClass": "PasswordSecret",
+            "projectName": "Java_3e637740"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Calculator",
+            "request": "launch",
+            "mainClass": "Calculator",
+            "projectName": "Java_3e637740"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Loop1",
+            "request": "launch",
+            "mainClass": "Loop1",
+            "projectName": "Java_3e637740"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - leapYear",
+            "request": "launch",
+            "mainClass": "leapYear",
+            "projectName": "Java_3e637740"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - UserNames",
+            "request": "launch",
+            "mainClass": "UserNames",
+            "projectName": "Java_3e637740"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AgeCheck",
+            "request": "launch",
+            "mainClass": "AgeCheck",
+            "projectName": "Java_3e637740"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - GradesAndPoints",
+            "request": "launch",
+            "mainClass": "GradesAndPoints",
+            "projectName": "Java_3e637740"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - GreaterNumber",
+            "request": "launch",
+            "mainClass": "GreaterNumber",
+            "projectName": "Java_3e637740"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StringComparison",
+            "request": "launch",
+            "mainClass": "StringComparison",
+            "projectName": "Java_3e637740"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Word",
+            "request": "launch",
+            "mainClass": "Word",
+            "projectName": "Java_3e637740"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - EvenOddnumber",
+            "request": "launch",
+            "mainClass": "EvenOddnumber",
+            "projectName": "Java_3e637740"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Positive",
+            "request": "launch",
+            "mainClass": "Positive",
+            "projectName": "Java_3e637740"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Conditionalelse",
+            "request": "launch",
+            "mainClass": "Conditionalelse",
+            "projectName": "Java_3e637740"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Boolean",
+            "request": "launch",
+            "mainClass": "Boolean",
+            "projectName": "Java_3e637740"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CondetionalStatement",
+            "request": "launch",
+            "mainClass": "CondetionalStatement",
+            "projectName": "Java_3e637740"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CircumferenceOfCircle",
+            "request": "launch",
+            "mainClass": "CircumferenceOfCircle",
+            "projectName": "Java_3e637740"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Divider",
+            "request": "launch",
+            "mainClass": "Divider",
+            "projectName": "Java_3e637740"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - integer",
+            "request": "launch",
+            "mainClass": "integer",
+            "projectName": "Java_3e637740"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - NameAndAgegreeting",
+            "request": "launch",
+            "mainClass": "NameAndAgegreeting",
+            "projectName": "Java_3e637740"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Name",
+            "request": "launch",
+            "mainClass": "Name",
+            "projectName": "Java_3e637740"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Greetings",
+            "request": "launch",
+            "mainClass": "Greetings",
+            "projectName": "Java_3e637740"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SecondsInAyear",
+            "request": "launch",
+            "mainClass": "SecondsInAyear",
+            "projectName": "Java_3e637740"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Myleapyear",
+            "request": "launch",
+            "mainClass": "Myleapyear",
+            "projectName": "Java_3e637740"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Multiplication",
+            "request": "launch",
+            "mainClass": "Multiplication",
+            "projectName": "Java_3e637740"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Susbstraction",
+            "request": "launch",
+            "mainClass": "Susbstraction",
+            "projectName": "Java_3e637740"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Addition",
+            "request": "launch",
+            "mainClass": "Addition",
+            "projectName": "Java_3e637740"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - fibonacci",
+            "request": "launch",
+            "mainClass": "fibonacci",
+            "projectName": "Java_3e637740"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - leapyear",
+            "request": "launch",
+            "mainClass": "leapyear",
+            "projectName": "Java_3e637740"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Compare",
+            "request": "launch",
+            "mainClass": "Compare",
+            "projectName": "Java_3e637740"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Pyramid",
+            "request": "launch",
+            "mainClass": "Pyramid",
+            "projectName": "Java_3e637740"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Invertedpyramid",
+            "request": "launch",
+            "mainClass": "Invertedpyramid",
+            "projectName": "Java_3e637740"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Alphapet",
+            "request": "launch",
+            "mainClass": "Alphapet",
+            "projectName": "Java_3e637740"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Numbers",
+            "request": "launch",
+            "mainClass": "Numbers"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Pattern",
+            "request": "launch",
+            "mainClass": "Pattern"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld"
+        }
+    ]
+}

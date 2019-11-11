@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestProgram",
+            "request": "launch",
+            "mainClass": "TestProgram",
+            "projectName": "Hangman_ceb96dca"
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PrintList",
+            "request": "launch",
+            "mainClass": "PrintList",
+            "projectName": "NewNew_3a6ea17e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ReverseList",
+            "request": "launch",
+            "mainClass": "ReverseList",
+            "projectName": "NewNew_3a6ea17e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - RecurringWord",
+            "request": "launch",
+            "mainClass": "RecurringWord",
+            "projectName": "NewNew_3a6ea17e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ArrayWords",
+            "request": "launch",
+            "mainClass": "ArrayWords",
+            "projectName": "NewNew_3a6ea17e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Words",
+            "request": "launch",
+            "mainClass": "Words",
+            "projectName": "NewNew_3a6ea17e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Teachers",
+            "request": "launch",
+            "mainClass": "Teachers",
+            "projectName": "NewNew_3a6ea17e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ReverseFor",
+            "request": "launch",
+            "mainClass": "ReverseFor",
+            "projectName": "NewNew_3a6ea17e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Reverse",
+            "request": "launch",
+            "mainClass": "Reverse",
+            "projectName": "NewNew_3a6ea17e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - index",
+            "request": "launch",
+            "mainClass": "index",
+            "projectName": "NewNew_3a6ea17e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - WordInsideWord",
+            "request": "launch",
+            "mainClass": "WordInsideWord",
+            "projectName": "NewNew_3a6ea17e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FirstPart",
+            "request": "launch",
+            "mainClass": "FirstPart",
+            "projectName": "NewNew_3a6ea17e"
+        }
+    ]
+}

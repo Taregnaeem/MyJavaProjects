@@ -1,0 +1,53 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Reserve2",
+            "request": "launch",
+            "mainClass": "Reserve2",
+            "projectName": "20.Sep_79af60c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Reserve",
+            "request": "launch",
+            "mainClass": "Reserve",
+            "projectName": "20.Sep_79af60c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FullSeparatingCharacter",
+            "request": "launch",
+            "mainClass": "FullSeparatingCharacter",
+            "projectName": "20.Sep_79af60c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SeparatingCharacter",
+            "request": "launch",
+            "mainClass": "SeparatingCharacter",
+            "projectName": "20.Sep_79af60c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StringLength",
+            "request": "launch",
+            "mainClass": "StringLength",
+            "projectName": "20.Sep_79af60c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SumOfnumbers",
+            "request": "launch",
+            "mainClass": "SumOfnumbers",
+            "projectName": "20.Sep_79af60c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Return",
+            "request": "launch",
+            "mainClass": "Return",
+            "projectName": "20.Sep_79af60c"
+        }
+    ]
+}

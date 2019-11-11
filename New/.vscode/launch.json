@@ -1,0 +1,53 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Return",
+            "request": "launch",
+            "mainClass": "Return",
+            "projectName": "New_bff2c0c2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Rerurn",
+            "request": "launch",
+            "mainClass": "Rerurn",
+            "projectName": "New_bff2c0c2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - GuessingNumberGame",
+            "request": "launch",
+            "mainClass": "GuessingNumberGame",
+            "projectName": "New_bff2c0c2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - GuessingNumber",
+            "request": "launch",
+            "mainClass": "GuessingNumber",
+            "projectName": "New_bff2c0c2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - GusssingNumber",
+            "request": "launch",
+            "mainClass": "GusssingNumber",
+            "projectName": "New_bff2c0c2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PrintingLikeaboss",
+            "request": "launch",
+            "mainClass": "PrintingLikeaboss",
+            "projectName": "New_bff2c0c2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Name",
+            "request": "launch",
+            "mainClass": "Name",
+            "projectName": "New_bff2c0c2"
+        }
+    ]
+}
